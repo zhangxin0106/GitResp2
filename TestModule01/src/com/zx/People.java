@@ -8,4 +8,5 @@ package com.zx;
  */
 public class People {
     private String name;
+    private double weight;
 }
